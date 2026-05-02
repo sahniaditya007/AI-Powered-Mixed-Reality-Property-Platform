@@ -46,7 +46,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed, and download the **
 
 1. Clone the repository and navigate to the project folder:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/sahniaditya007/AI-Powered-Mixed-Reality-Property-Platform.git
    cd AI-Powered-Mixed-Reality-Property-Platform
    ```
 
