@@ -22,6 +22,14 @@ An AI-powered camera scanner to detect and report property issues.
 - **AR Overlay**: Simulates an AI vision model identifying the problem with an interactive bounding box, severity label, and cost estimate.
 - **Instant Task Assignment**: A single "Assign Vendor" action to instantly dispatch help and update the dashboard.
 
+## Preview
+<img width="859" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8dce8c6-5b7e-4e84-bc18-3f9c4633c13a" />
+<img width="917" height="1600" alt="image" src="https://github.com/user-attachments/assets/8ddf6d41-38e5-4899-b807-67b95b60aace" />
+<img width="980" height="1600" alt="image" src="https://github.com/user-attachments/assets/ad1633e1-cb81-467c-908e-3041245d2ece" />
+<img width="785" height="1600" alt="image" src="https://github.com/user-attachments/assets/63e369f4-84d9-423f-9b0e-fb78e3fe4c9b" />
+<img width="606" height="1280" alt="image" src="https://github.com/user-attachments/assets/4c04764a-8a87-4749-b39e-f29c3cb0f03c" />
+
+
 ## ⚙️ Tech Stack
 - **Framework**: React Native with Expo
 - **Navigation**: React Navigation (Stack)
